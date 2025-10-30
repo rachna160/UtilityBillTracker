@@ -34,4 +34,4 @@ To create a trustless, transparent, and efficient system for managing recurring 
 ### 3. Block Explorer Screenshot:
 ![Transaction Proof](Screenshot 2025-10-29 224139.png) 
 
-*Block Explorer URL:* [Please paste the full URL of your successful transaction here]
+
